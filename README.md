@@ -1,16 +1,24 @@
-# mobile_hw
+# BIM493 - Mobile Programming I - Assignment 1
 
-A new Flutter project.
+**Department App**
 
-## Getting Started
+This Flutter project includes:
+- Login & Sign Up pages  
+- Instructor calling support (with call button)  
+- Classroom photo enlargement on double tap  
+- Basic navigation between sections: About, People, Infrastructure, Courses  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 👥 Group Members
+- Tuna Duman – 10975597542
+- Cenker Karalar – 29860177370    
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Install **Flutter SDK**
+2. Run this command to get dependencies:
+   ```bash
+   flutter pub get
+
